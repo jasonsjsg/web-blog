@@ -1,2 +1,2 @@
 # web-blog
-a Blog for holylight
+this is a test game website
